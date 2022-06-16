@@ -1,6 +1,6 @@
 Hi everyone, I'm Bảo BV! 👋
 Software development is my profession and blogging, teaching is my passion.
-,h1>I'm a Software Engineer, Blogger, YouTuber</h1>
+<h1>I'm a Software Engineer, Blogger, YouTuber</h1>
 🔭 I’m currently working on software development
 🌱 I’m currently learning web development (NodeJS, ReactJS and Angular).
 💬 Ask me about Java, Spring boot, React, Angular or any tech related stuff.
