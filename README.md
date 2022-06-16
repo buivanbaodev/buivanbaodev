@@ -1,5 +1,5 @@
-Hi everyone, I'm Bảo BV! 👋
-Software development is my profession and blogging, teaching is my passion.
+<h3>Hi everyone, I'm Bảo BV! 👋 </h3>
+<h5>Software development is my profession and blogging, teaching is my passion. <h5>
 <h1>I'm a Software Engineer, Blogger, YouTuber</h1>
 🔭 I’m currently working on software development
 🌱 I’m currently learning web development (NodeJS, ReactJS and Angular).
