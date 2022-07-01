@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone, I'm Bảo BV! 👋</h1>
-<h3 align="center">A passionate fSoftware development is my profession and blogging, teaching is my passion.rontend developer from Vietnam</h3>
+<h3 align="center">A passionate fSoftware development is my profession and blogging, frontend developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buivanbaodev&label=Profile%20views&color=0e75b6&style=flat" alt="buivanbaodev" /> </p>
 
