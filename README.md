@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **software development**
 
-- 🌱 I’m currently learning **web development (NodeJS,C#,.NET,MySQL, ReactJS and Angular).**
+- 🌱 I’m currently learning **web development (NodeJS,C#,.NET,MySQL).**
 
-- 💬 Ask me about **Java, Spring boot, React, Angular or any tech related stuff.**
+- 💬 Ask me about **Java, Spring boot, or any tech related stuff.**
 
 - 📫 How to reach me **buivanbaodev@gmail.com**
 
