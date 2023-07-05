@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **software development**
 
-- 🌱 I’m currently learning **web development (NodeJS,C#,.NET,MySQL).**
+- 🌱 I’m currently learning **web development (Java,C#,.NET,MySQL).**
 
 - 💬 Ask me about **Java, Spring boot, or any tech related stuff.**
 
